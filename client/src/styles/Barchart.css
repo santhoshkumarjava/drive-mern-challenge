@@ -1,0 +1,22 @@
+.recharts-default-legend{
+    display: none;
+}
+
+.bar_cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aquamarine; */
+    margin-block: 2.5rem;
+    padding: 1rem;
+}
+
+.bar_div{
+    /* background-color: antiquewhite; */
+}
+
+.bar_h1{
+    text-align: center;
+    margin-bottom: 2rem;
+    word-spacing: 5px;
+}

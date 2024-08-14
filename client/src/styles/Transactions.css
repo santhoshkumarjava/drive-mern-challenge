@@ -1,0 +1,43 @@
+.trans_cont{
+    /* background-color: aquamarine; */
+    padding: 1rem;
+}
+
+.trans_h1{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    word-spacing: 5px;
+}
+
+.trans_row1_col1,
+.trans_row1_col2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.trans_description{
+    text-align: justify;
+}
+
+.trans_last{
+    margin-block: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: first baseline;
+}
+
+.trans_btn{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.trans_p1{
+    font-weight: 500;
+}
+
+.trans_table{
+    border: 1px solid rgba(128, 128, 128,.5);
+}

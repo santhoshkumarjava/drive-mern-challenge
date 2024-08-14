@@ -1,0 +1,35 @@
+.stat_cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block: 2.5rem;
+    /* background-color: aquamarine; */
+    padding: 1rem;
+}
+
+
+.stat_div{
+    max-width: 600px;
+    width: 100%;
+    padding: 1rem;
+    border: 2px solid rgb(165, 165, 165);
+    border-radius: 1rem;
+}
+
+.stat_h1{
+    text-align: center;
+    margin-bottom: 1rem;
+    word-spacing: 5px;
+}
+
+.stat_li li{
+    padding-left: 2rem;
+}
+
+.stat_li li span{
+    font-size: 20px;
+}
+
+.stat_li li span:first-child{
+    font-weight: 500;
+}
